@@ -1,0 +1,32 @@
+{
+  "name": "FullBoost",
+  "short_name": "FullBoost",
+  "id": "https://www.lajumpeuse.com/library",
+  "start_url": "https://www.lajumpeuse.com/library",
+  "scope": "https://www.lajumpeuse.com/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "lang": "fr",
+  "description": "Ta plateforme FullBoost : corde à sauter, activité physique, nutrition et bien-être.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
